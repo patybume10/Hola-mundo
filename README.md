@@ -1,5 +1,6 @@
 # Hola-mundo
 Éste es el primer ejemplo de github 
+<<<<<<< HEAD
 ----------Oooo--- 
 -----------(----)--- 
 ------------)--/---- 
@@ -16,3 +17,5 @@
 ----(---)---- 
 -------(-- 
 ------_)-
+=======
+>>>>>>> parent of bb0cdff... Update README.md
